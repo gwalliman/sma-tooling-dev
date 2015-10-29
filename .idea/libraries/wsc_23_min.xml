@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="wsc-23-min">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/wsc-23-min.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

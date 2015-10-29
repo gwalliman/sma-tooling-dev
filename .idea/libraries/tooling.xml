@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="tooling">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/tooling.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/tooling.jar!/" />
+    </SOURCES>
+  </library>
+</component>
